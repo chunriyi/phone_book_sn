@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Phone_Book_sn\Phone_Book\bin\Debug\Phone_Book.exe
+C:\Users\Owner\source\repos\Phone_Book_sn\Phone_Book\bin\Debug\Phone_Book.pdb
+C:\Users\Owner\source\repos\Phone_Book_sn\Phone_Book\obj\Debug\Phone_Book.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Phone_Book_sn\Phone_Book\obj\Debug\Phone_Book.Properties.Resources.resources
+C:\Users\Owner\source\repos\Phone_Book_sn\Phone_Book\obj\Debug\Phone_Book.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Phone_Book_sn\Phone_Book\obj\Debug\Phone_Book.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Phone_Book_sn\Phone_Book\obj\Debug\Phone_Book.exe
+C:\Users\Owner\source\repos\Phone_Book_sn\Phone_Book\obj\Debug\Phone_Book.pdb
+C:\Users\Owner\source\repos\Phone_Book_sn\Phone_Book\obj\Debug\Phone_Book.Form1.resources
+C:\Users\Owner\source\repos\Phone_Book_sn\Phone_Book\bin\Debug\Phone_Book.exe.config
+C:\Users\Owner\source\repos\Phone_Book_sn\Phone_Book\obj\Debug\Phone_Book.Form2.resources
