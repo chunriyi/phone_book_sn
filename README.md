@@ -7,7 +7,7 @@ The system manager can search customers' infomation by entering the 1st letter o
 
 RECOMMENDATION
 --------------------
-I used Visual Studio 2019 and SQL Server 2014 Management Studio to develop the project. The folder   is the C# coding part of the project, and the    is the SQL database file. I attached the Phone Book database in SQL Server 2014 Management Studio.
+I used Visual Studio 2019 and SQL Server 2014 Management Studio to develop the project. The folder 'Phone_Book' and the file Phone_Book_sn.sln is the C# coding part of the project, and the file 'phone_book.mdf' is the SQL database file. I attached the Phone Book database in SQL Server 2014 Management Studio.
 
 NOTIFICATION
 --------------------
